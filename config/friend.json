@@ -1,0 +1,92 @@
+[
+    {
+        "userId": "32",
+        "nickName": "Leader",
+        "picUrl": "https://example.com/avatar1.png",
+        "picType": 0,
+        "sex": 1,
+        "details": "Owner/Founder of Epic Go. thanks for trying our app.",
+        "birthday": "2000-05-15"
+    },
+    {
+        "userId": "46",
+        "nickName": "Zxcfang",
+        "picUrl": "https://example.com/avatar2.png",
+        "picType": 0,
+        "sex": 1,
+        "details": "Owner/Developer of Epic GO.",
+        "birthday": "1998-11-23"
+    },
+    {
+        "userId": "60",
+        "nickName": "UNull21th",
+        "picUrl": "https://example.com/avatar3.png",
+        "picType": 0,
+        "sex": 1,
+        "details": "unknowm.",
+        "birthday": "1995-08-02"
+    },
+    {
+        "userId": "74",
+        "nickName": "Cezox",
+        "picUrl": "https://example.com/avatar4.png",
+        "picType": 0,
+        "sex": 1,
+        "details": "Moderator of Epic GO.",
+        "birthday": "2002-01-30"
+    },
+    {
+        "userId": "88",
+        "nickName": "CCC",
+        "picUrl": "https://example.com/avatar5.png",
+        "picType": 0,
+        "sex": 1,
+        "details": "Moderator of Epic GO.",
+        "birthday": "1996-12-17"
+    },
+    {
+        "userId": "112",
+        "nickName": "Frank",
+        "picUrl": "https://example.com/avatar6.png",
+        "picType": 0,
+        "sex": 2,
+        "details": "Moderator of Epic GO.",
+        "birthday": "2001-03-22"
+    },
+    {
+        "userId": "116",
+        "nickName": "Wafex",
+        "picUrl": "https://example.com/avatar7.png",
+        "picType": 0,
+        "sex": 1,
+        "details": "Developer of the app.",
+        "birthday": "1993-06-10"
+    },
+    {
+        "userId": "130",
+        "nickName": "Mohamed",
+        "picUrl": "https://example.com/avatar8.png",
+        "picType": 0,
+        "sex": 2,
+        "details": "Developer of the app.",
+        "birthday": "1989-04-25"
+    },
+    {
+        "userId": "144",
+        "nickName": "Stroke",
+        "picUrl": "https://example.com/avatar9.png",
+        "picType": 0,
+        "sex": 1,
+        "details": "Moderator of Epic GO.",
+        "birthday": "2003-09-18"
+    },
+    {
+        "userId": "158",
+        "nickName": "Unknown",
+        "picUrl": "https://example.com/avatar10.png",
+        "picType": 0,
+        "sex": 2,
+        "details": "unknown test",
+        "birthday": "1997-07-09"
+    }
+]

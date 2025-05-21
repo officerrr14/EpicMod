@@ -1,0 +1,82 @@
+[
+     {
+      "id": 10,
+      "typeId": 2,
+      "camera": "head",
+      "name": "Stylish Hair",
+      "iconUrl": "http://staticgs.sandboxol.com/sandbox/dresses/iconscustom_hair.2.custom_hair.1513395806665.2",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "custom_hair.2",
+      "details": "Stylish Hair",
+      "expire": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 0,
+      "occupyPosition": [
+        12
+      ],
+      "isFree": 1
+     },
+         {
+      "id": 368,
+      "typeId": 8,
+      "camera": "top",
+      "name": "Mechanic Top",
+      "iconUrl": "http://staticgs.sandboxol.com/sandbox/dresses/iconsiconscustom_hair.1553170395408.34",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "custom_hair.34",
+      "details": "Mechanic Top",
+      "expire": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 0,
+      "occupyPosition": [
+        12
+      ],
+      "isFree": 1
+    },
+         {
+      "id": 645,
+      "typeId": 2,
+      "camera": "top",
+      "name": "Mechanic Top",
+      "iconUrl": "http://staticgs.sandboxol.com/sandbox/dresses/iconscustom_hair.56.custom_hair.1571737925791.56",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "custom_hair.56",
+      "details": "Mechanic Top",
+      "expire": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 0,
+      "occupyPosition": [
+        12
+      ],
+      "isFree": 1
+    },
+      {
+       "id": 294,
+      "typeId": 2,
+      "camera": "head",
+      "name": "Pumpkin",
+      "iconUrl": "http://staticgs.sandboxol.com/sandbox/dresses/iconsclothes_tops.61.clothes_tops.1540815501312.61",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "custom_hair.61",
+      "details": "Cool glasses",
+      "expire": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 0,
+      "occupyPosition": [
+        12
+      ],
+      "isFree": 1
+      }
+]
