@@ -1,0 +1,14 @@
+{
+    "userId": "32",
+    "sex": 1,
+    "nickName": "Tester",
+    "birthday": "2019-1-9",
+    "details": "Welcome to Epic GO",
+    "diamonds": 999999,
+    "golds": 999999,
+    "picUrl": "",
+    "picType": 0,
+    "telephone": null,
+    "hasPassword": true,
+    "vip": 3
+}
